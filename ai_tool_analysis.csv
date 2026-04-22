@@ -1,0 +1,6 @@
+Primary_AI_Tool,GPA_Change_Mean,GPA_Change_Std,Count,Time_Saved_Mean,Career_Confidence_Mean
+ChatGPT-4o,0.094,0.135,288,8.33,5.354
+Perplexity,0.092,0.134,302,8.848,5.699
+GitHub Copilot,0.091,0.139,311,8.441,5.344
+Gemini Pro,0.082,0.137,302,8.642,5.166
+Claude 3.5,0.08,0.129,297,8.279,5.525
